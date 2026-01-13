@@ -1,10 +1,10 @@
-# A1. Executive Summary
+# 1. Executive Summary
 This project analyzes the relationship between Bitcoin Market Sentiment (Fear & Greed Index) and historical trader performance on Hyperliquid. By merging trading records with sentiment data, we uncovered counter-intuitive patterns in profitability, risk management, and asset selection.
 
 Key Finding: Contrary to the popular "Greed Kills" narrative, the data proves that "Extreme Greed" was the most profitable environment for these traders, offering the highest Risk/Reward ratio and the lowest probability of catastrophic loss.
 
 
-2. Key Insights & Deep Dive Analysis
+# 2. Key Insights & Deep Dive Analysis
 🟢 The "Golden Zone": Extreme Greed
 Risk/Reward Ratio (1.34): For every $1 lost during "Extreme Greed", traders made **$1.34** in profit. This is the only sentiment zone with a positive edge (>1.0).
 
